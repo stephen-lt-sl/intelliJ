@@ -1,0 +1,33 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.featu</mask>
+      <mask>*.feature</mask>
+      <mask>!*.feature</mask>
+      <mask>!*.eature</mask>
+      <mask>!*.ture</mask>
+      <mask>!*.lture</mask>
+      <mask>!*.logture</mask>
+      <mask>!*.logure</mask>
+      <mask>!*.log</mask>
+      <mask>!*log</mask>
+      <mask>!*</mask>
+      <mask>.</mask>
+      <mask>.java</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>

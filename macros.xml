@@ -1,0 +1,37 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="&lt;noname&gt;">
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorDelete" />
+      <typing text-keycode="83:1;87:0;73:0;70:0;84:0;80:1;65:0;89:0;77:0;69:0;78:0;84:0;67:1;79:0;78:0;83:0;84:0;82:0;65:0;73:0;78:0;84:0;83:0;32:0;83:0;87:0;73:0;70:0;84:0;80:1;65:0;89:0;77:0;69:0;78:0;84:0;67:1;79:0;78:0;83:0;84:0;82:0;65:0;73:0;78:0;84:0;83:0;32:0;61:0;32:0;71:0;69:0;84:0;83:1;87:0;73:0;70:0;84:0;80:1;65:0;89:0;77:0;69:0;78:0;84:0;67:1;79:0;78:0;83:0;84:0;82:0;65:0;73:0;78:0;84:0;83:0">SwiftPaymentConstraints&amp;#x20;swiftPaymentConstraints&amp;#x20;=&amp;#x20;getSwiftPaymentConstraints</typing>
+      <action id="EditorRight" />
+      <action id="EditorNextWord" />
+      <typing text-keycode="48:1;59:0">);</typing>
+      <action id="EditorEnter" />
+      <typing text-keycode="80:1;65:0;89:0;77:0;69:0;78:0;84:0;83:1;89:0;83:0;84:0;69:0;77:0;84:1;89:0;80:0;69:0;32:0;80:0;65:0;89:0;77:0;69:0;78:0;84:0;83:1;89:0;83:0;84:0;69:0;77:0;84:1;89:0;80:0;69:0;32:0;61:0;32:0;71:0;69:0;84:0;80:1;65:0;89:0;77:0;69:0;78:0;84:0;84:1;89:0;80:0;69:0;57:1;83:0;87:0;73:0;70:0;84:0;80:1;65:0;89:0;77:0;69:0;78:0;84:0;67:1;79:0;78:0;83:0;84:0;82:0;65:0;73:0;78:0;84:0;83:0">PaymentSystemType&amp;#x20;paymentSystemType&amp;#x20;=&amp;#x20;getPaymentType(swiftPaymentConstraints</typing>
+      <action id="EditorRight" />
+      <action id="EditorLineEnd" />
+      <action id="EditorEnter" />
+      <typing text-keycode="80:1;65:0;73:0;78:0;71:1;82:0;79:0;85:0;80:0;73:0;78:0;71:0;32:0;80:0;65:0;73:0;78:0;71:1;82:0;79:0;85:0;80:0;73:0;78:0;71:0;32:0;61:0;32:0;71:0;69:0;84:0;80:1;65:0;73:0;78:0;71:1;82:0;79:0;85:0;80:0;73:0;78:0;71:0;57:1">PainGrouping&amp;#x20;painGrouping&amp;#x20;=&amp;#x20;getPainGrouping(</typing>
+      <action id="EditorUp" />
+      <action id="EditorUp" />
+      <action id="EditorLineEnd" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorCopy" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorLineEnd" />
+      <action id="EditorLeft" />
+      <action id="EditorPaste" />
+      <typing text-keycode="44:0;32:0;80:0;65:0;89:0;77:0;69:0;78:0;84:0;83:1;89:0;83:0;89:0">,&amp;#x20;paymentSysy</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="84:0;69:0;77:0;84:1;89:0;80:0;69:0;48:1;59:0">temType);</typing>
+    </macro>
+  </component>
+</application>

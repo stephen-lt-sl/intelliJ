@@ -1,0 +1,165 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1493138473454">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Dev/Decorator-Pattern/Decorator-Pattern/src/com/scottlogic/designpatterns/decorator/Main.java" timestamp="1478622074144">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="C:/Dev/hl/deposit.app/ds.it.app/src/test/java/uk/co/hl/savings/ds/it/app/stepdefs/StatementSteps.java" timestamp="1493135965236">
+        <mark key="[" line="114" column="33" />
+      </file>
+      <file name="C:/Dev/hl/deposit.app/reconciliation/src/main/java/uk/co/hl/savings/commons/reconciliation/businessrule/ReconciliationFileProcessor.java" timestamp="1493136308952">
+        <mark key="[" line="122" column="107" />
+      </file>
+      <file name="C:/Dev/Decorator-Pattern/Decorator-Pattern/src/com/scottlogic/designpatterns/decorator/io/core/BaseFileReader.java" timestamp="1478622185598">
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="C:/Dev/Decorator-Pattern/Decorator-Pattern/README.txt" timestamp="1478622399367">
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="C:/Dev/Decorator-Pattern/Decorator-Pattern/src/com/scottlogic/designpatterns/decorator/io/extraFunctionalityReaders/ICompositeReader.java" timestamp="1478622696919">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="48" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="C:/Dev/hl/deposit.app/ds.it.app/src/test/resources/feature/UserOperations/TestSteps.feature" timestamp="1493138461075">
+        <mark key="[" line="8" column="56" />
+      </file>
+      <file name="C:/Dev/Decorator-Pattern/Decorator-Pattern/src/com/scottlogic/designpatterns/decorator/io/basicReaders/LeetReader.java" timestamp="1478622219174">
+        <mark key="[" line="22" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Observer/Observer_task/src/main/java/com/sl/dp/Auction.java" timestamp="1473869343501">
+        <mark key="'" line="5" column="13" />
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+      </file>
+      <file name="C:/Dev/hl/deposit.app/ds.it.app/src/test/resources/feature/CardPaymentConfirmation.feature" timestamp="1493138420020">
+        <mark key="[" line="323" column="4" />
+        <mark key="]" line="323" column="4" />
+        <mark key="." line="323" column="4" />
+        <mark key="^" line="250" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/Observer/Observer_task/src/test/java/com/sl/dp/AuctionTest.java" timestamp="1473869326010">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="19" />
+        <mark key="^" line="53" column="19" />
+        <mark key="." line="53" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Observer/Observer_task/src/main/java/com/sl/dp/Bidder.java" timestamp="1473868925922">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Observer/Observer_task/src/main/java/com/sl/dp/RichBidder.java" timestamp="1473869348002">
+        <mark key="'" line="8" column="13" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="23" />
+      </file>
+      <file name="C:/Dev/hl/deposit.app/ds.it.app/src/test/java/uk/co/hl/savings/ds/it/app/stepdefs/CardSteps.java" timestamp="1493135553398">
+        <mark key="[" line="159" column="8" />
+      </file>
+      <file name="C:/Dev/hl/deposit.app/ds.test.common/src/main/java/uk/co/hl/savings/test/steps/ReconciliationStepUtils.java" timestamp="1493136024808">
+        <mark key="[" line="61" column="42" />
+      </file>
+      <file name="C:/Dev/Decorator-Pattern/Decorator-Pattern/src/com/scottlogic/designpatterns/decorator/io/core/IReader.java" timestamp="1478622605742">
+        <mark key="'" line="2" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+      </file>
+      <file name="C:/Dev/Decorator-Pattern/Decorator-Pattern/src/com/scottlogic/designpatterns/decorator/SimpleReaderFactory.java" timestamp="1478622452318">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1473868649963">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Dev/hl/deposit.app/ds.it.app/src/test/resources/feature/Messages/BankPaymentNotification.feature" timestamp="1493138490261">
+        <mark key="[" line="55" column="83" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Observer/Observer_task/src/test/java/com/sl/dp/AuctionTest.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/Documents/Observer/Observer_task/src/test/java/com/sl/dp/AuctionTest.java" />
+      <jump line="7" column="17" filename="$USER_HOME$/Documents/Observer/Observer_task/src/test/java/com/sl/dp/AuctionTest.java" />
+      <jump line="54" column="50" filename="$USER_HOME$/Documents/Observer/Observer_task/src/test/java/com/sl/dp/AuctionTest.java" />
+      <jump line="17" column="13" filename="$USER_HOME$/Documents/Observer/Observer_task/src/test/java/com/sl/dp/AuctionTest.java" />
+      <jump line="8" column="13" filename="$USER_HOME$/Documents/Observer/Observer_task/src/main/java/com/sl/dp/RichBidder.java" />
+      <jump line="13" column="17" filename="$USER_HOME$/Documents/Observer/Observer_task/src/test/java/com/sl/dp/AuctionTest.java" />
+      <jump line="5" column="13" filename="$USER_HOME$/Documents/Observer/Observer_task/src/main/java/com/sl/dp/Auction.java" />
+      <jump line="53" column="8" filename="$USER_HOME$/Documents/Observer/Observer_task/src/test/java/com/sl/dp/AuctionTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Observer/Observer_task/src/test/java/com/sl/dp/AuctionTest.java" />
+      <jump line="2" column="1" filename="C:/Dev/Decorator-Pattern/Decorator-Pattern/src/com/scottlogic/designpatterns/decorator/io/core/IReader.java" />
+      <jump line="0" column="0" filename="C:/Dev/Decorator-Pattern/Decorator-Pattern/src/com/scottlogic/designpatterns/decorator/io/extraFunctionalityReaders/ICompositeReader.java" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20uc2NvdHRsb2dpYy5kZXNpZ25wYXR0ZXJucy5kZWNvcmF0b3IuaW8uY29yZTsKCnB1YmxpYyBpbnRlcmZhY2UgSVJlYWRlciB7CglwdWJsaWMgU3RyaW5nIHJlYWRMaW5lKCk7Cn0K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgcmVhZExpbmUoKTsK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>And</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQlhdWN0aW9uLnVuc3Vic2NyaWJlKHRoaXMpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>And</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>wq</entry>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

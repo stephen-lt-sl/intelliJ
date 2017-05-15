@@ -5,7 +5,6 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.feature" />
     <recentFileMasks>
       <mask>*.xml</mask>
       <mask>*.js</mask>
@@ -32,11 +31,11 @@
       <mask>!*</mask>
       <mask>!*.</mask>
       <mask>!*.htm</mask>
-      <mask>*.html</mask>
       <mask>!*.html</mask>
       <mask>*</mask>
       <mask>*.f</mask>
       <mask>*.feature</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>

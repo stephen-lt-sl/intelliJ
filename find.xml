@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.feature" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>!*.feature</mask>
@@ -23,7 +21,6 @@
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.featu</mask>
       <mask>!*h</mask>
       <mask>!</mask>
       <mask>!*</mask>
@@ -32,8 +29,12 @@
       <mask>!*.html</mask>
       <mask>*</mask>
       <mask>*.f</mask>
-      <mask>*.feature</mask>
       <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.featu</mask>
+      <mask>*.feature</mask>
     </recentFileMasks>
   </component>
 </application>

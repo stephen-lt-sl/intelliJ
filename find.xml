@@ -2,15 +2,13 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>!*h</mask>
       <mask>!</mask>
       <mask>!*</mask>
@@ -32,12 +30,13 @@
       <mask>Form.java</mask>
       <mask>orm.java</mask>
       <mask>*orm.java</mask>
-      <mask>*</mask>
       <mask>*.htm</mask>
       <mask>*.htmml</mask>
       <mask>*.htmm</mask>
-      <mask>*.html</mask>
       <mask>V*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>

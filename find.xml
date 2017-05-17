@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*orm.java" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>.</mask>
-      <mask>.java</mask>
       <mask>*.java</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
@@ -17,14 +15,11 @@
       <mask>!*.</mask>
       <mask>!*.htm</mask>
       <mask>!*.html</mask>
-      <mask>*</mask>
       <mask>*.f</mask>
-      <mask>*.htm</mask>
       <mask>*.featu</mask>
       <mask>*.feature</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
-      <mask>*.html</mask>
       <mask>Fo.html</mask>
       <mask>Form.html</mask>
       <mask>Form..html</mask>
@@ -35,6 +30,11 @@
       <mask>Form.java</mask>
       <mask>orm.java</mask>
       <mask>*orm.java</mask>
+      <mask>*</mask>
+      <mask>*.htm</mask>
+      <mask>*.htmml</mask>
+      <mask>*.htmm</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>

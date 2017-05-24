@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>Form.j.html</mask>
       <mask>Form.ja.html</mask>
       <mask>Form.java.html</mask>
       <mask>Form.javahtml</mask>
@@ -16,9 +16,6 @@
       <mask>*.htmm</mask>
       <mask>V*</mask>
       <mask>*.html</mask>
-      <mask>*.j</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.</mask>
       <mask>*.sql</mask>
       <mask>C</mask>
@@ -34,6 +31,10 @@
       <mask>*Configuration.java</mask>
       <mask>*</mask>
       <mask>*.feature</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Configuration.java" />
     <recentFileMasks>
       <mask>Form.j.html</mask>
       <mask>Form.ja.html</mask>
@@ -17,7 +16,6 @@
       <mask>*.htmm</mask>
       <mask>V*</mask>
       <mask>*.html</mask>
-      <mask>*.feature</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
@@ -28,13 +26,14 @@
       <mask>Conf</mask>
       <mask>Config</mask>
       <mask>Confi</mask>
-      <mask>*</mask>
       <mask>*C</mask>
       <mask>*Co</mask>
       <mask>*Configuratio</mask>
       <mask>*Configuration</mask>
       <mask>*Configuration.</mask>
       <mask>*Configuration.java</mask>
+      <mask>*</mask>
+      <mask>*.feature</mask>
     </recentFileMasks>
   </component>
 </application>

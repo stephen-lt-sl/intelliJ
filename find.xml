@@ -3,10 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.feature" />
     <recentFileMasks>
-      <mask>Form.java.html</mask>
       <mask>Form.javahtml</mask>
       <mask>Form.java</mask>
       <mask>orm.java</mask>
@@ -28,14 +30,15 @@
       <mask>*Configuration.</mask>
       <mask>*Configuration.java</mask>
       <mask>*</mask>
-      <mask>*.feature</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.s</mask>
       <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*.feature</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -5,10 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>Form.java</mask>
-      <mask>orm.java</mask>
       <mask>*orm.java</mask>
       <mask>*.htm</mask>
       <mask>*.htmml</mask>
@@ -33,10 +30,12 @@
       <mask>*</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
-      <mask>*.html</mask>
       <mask>*.sql</mask>
+      <mask>*.ql</mask>
+      <mask>*.l</mask>
+      <mask>*.</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>

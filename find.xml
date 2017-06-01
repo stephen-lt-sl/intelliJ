@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Mapper.java" />
     <recentFileMasks>
-      <mask>*orm.java</mask>
-      <mask>*.htm</mask>
-      <mask>*.htmml</mask>
-      <mask>*.htmm</mask>
       <mask>V*</mask>
       <mask>C</mask>
       <mask>Co</mask>
@@ -22,18 +19,22 @@
       <mask>*Configuration.java</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.j</mask>
       <mask>*.feature</mask>
       <mask>*</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.h</mask>
       <mask>*.sql</mask>
       <mask>*.ql</mask>
       <mask>*.l</mask>
-      <mask>*.</mask>
       <mask>*.html</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
+      <mask>*M.java</mask>
+      <mask>*Map.java</mask>
+      <mask>*Mapper.java</mask>
     </recentFileMasks>
   </component>
 </application>

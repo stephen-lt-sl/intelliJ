@@ -19,8 +19,6 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.j</mask>
-      <mask>*.feature</mask>
-      <mask>*</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>*.sql</mask>
@@ -29,11 +27,13 @@
       <mask>*.html</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*.java</mask>
       <mask>*M.java</mask>
       <mask>*Map.java</mask>
       <mask>*Mapper.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.feature</mask>
     </recentFileMasks>
   </component>
 </application>

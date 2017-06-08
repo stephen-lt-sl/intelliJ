@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
-      <mask>Config</mask>
       <mask>Confi</mask>
       <mask>*C</mask>
       <mask>*Co</mask>
@@ -34,6 +34,7 @@
       <mask>*.proper</mask>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>

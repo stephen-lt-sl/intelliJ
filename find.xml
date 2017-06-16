@@ -4,12 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*Configuration</mask>
-      <mask>*Configuration.</mask>
-      <mask>*Configuration.java</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.j</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>*.sql</mask>
@@ -34,6 +28,12 @@
       <mask>*.fea</mask>
       <mask>*.feat</mask>
       <mask>*.feature</mask>
+      <mask>Co</mask>
+      <mask>Contro</mask>
+      <mask>Control</mask>
+      <mask>Controller</mask>
+      <mask>Controller*</mask>
+      <mask>*Controller*</mask>
     </recentFileMasks>
   </component>
 </application>

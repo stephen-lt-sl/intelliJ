@@ -14,15 +14,12 @@
       <mask>*M.java</mask>
       <mask>*Map.java</mask>
       <mask>*Mapper.java</mask>
-      <mask>*</mask>
       <mask>*.prop</mask>
       <mask>*.proper</mask>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
       <mask>*.css</mask>
       <mask>*.java</mask>
-      <mask>*.html</mask>
-      <mask>*.</mask>
       <mask>*.f</mask>
       <mask>*.fe</mask>
       <mask>*.fea</mask>
@@ -34,6 +31,9 @@
       <mask>Controller</mask>
       <mask>Controller*</mask>
       <mask>*Controller*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>

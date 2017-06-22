@@ -4,10 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.sq</mask>
-      <mask>*.s</mask>
-      <mask>*.sql</mask>
-      <mask>*.ql</mask>
       <mask>*.l</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
@@ -18,12 +14,10 @@
       <mask>*.proper</mask>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
-      <mask>*.css</mask>
       <mask>*.f</mask>
       <mask>*.fe</mask>
       <mask>*.fea</mask>
       <mask>*.feat</mask>
-      <mask>*.feature</mask>
       <mask>Co</mask>
       <mask>Contro</mask>
       <mask>Control</mask>
@@ -31,9 +25,15 @@
       <mask>Controller*</mask>
       <mask>*Controller*</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.html</mask>
       <mask>*.java</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
+      <mask>*.ss</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.featu</mask>
+      <mask>*.feature</mask>
     </recentFileMasks>
   </component>
 </application>

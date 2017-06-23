@@ -5,12 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.java" />
     <recentFileMasks>
-      <mask>*.l</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*M.java</mask>
-      <mask>*Map.java</mask>
       <mask>*Mapper.java</mask>
       <mask>*.prop</mask>
       <mask>*.proper</mask>
@@ -36,6 +32,11 @@
       <mask>*.</mask>
       <mask>*.featu</mask>
       <mask>*.feature</mask>
+      <mask>!</mask>
+      <mask>!*</mask>
+      <mask>!*.</mask>
+      <mask>!*.j</mask>
+      <mask>!*.java</mask>
     </recentFileMasks>
   </component>
 </application>

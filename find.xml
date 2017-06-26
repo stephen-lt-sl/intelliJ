@@ -3,10 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*Mapper.java</mask>
       <mask>*.prop</mask>
@@ -23,21 +22,21 @@
       <mask>Controller</mask>
       <mask>Controller*</mask>
       <mask>*Controller*</mask>
-      <mask>*</mask>
-      <mask>*.html</mask>
       <mask>*.java</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.ss</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.featu</mask>
       <mask>*.feature</mask>
-      <mask>!</mask>
       <mask>!*</mask>
-      <mask>!*.</mask>
       <mask>!*.j</mask>
       <mask>!*.java</mask>
+      <mask>!*.</mask>
+      <mask>!</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>

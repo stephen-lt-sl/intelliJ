@@ -2,16 +2,17 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.feature" />
     <recentFileMasks>
       <mask>*Mapper.java</mask>
       <mask>*.prop</mask>
       <mask>*.proper</mask>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
-      <mask>*.f</mask>
       <mask>*.fe</mask>
-      <mask>*.fea</mask>
       <mask>*.feat</mask>
       <mask>Co</mask>
       <mask>Contro</mask>
@@ -23,8 +24,6 @@
       <mask>*.css</mask>
       <mask>*.ss</mask>
       <mask>*.s</mask>
-      <mask>*.featu</mask>
-      <mask>*.feature</mask>
       <mask>!*</mask>
       <mask>!*.j</mask>
       <mask>!*.java</mask>
@@ -34,6 +33,10 @@
       <mask>*.</mask>
       <mask>*.html</mask>
       <mask>*.java</mask>
+      <mask>*.f</mask>
+      <mask>*.fea</mask>
+      <mask>*.featu</mask>
+      <mask>*.feature</mask>
     </recentFileMasks>
   </component>
 </application>

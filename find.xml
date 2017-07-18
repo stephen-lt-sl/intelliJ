@@ -5,10 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.log" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.fe</mask>
-      <mask>*.feat</mask>
       <mask>Co</mask>
       <mask>Contro</mask>
       <mask>Control</mask>
@@ -36,6 +34,9 @@
       <mask>*.json</mask>
       <mask>*.f</mask>
       <mask>*.feature</mask>
+      <mask>!*.feature</mask>
+      <mask>!*.l</mask>
+      <mask>!*.log</mask>
     </recentFileMasks>
   </component>
 </application>

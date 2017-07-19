@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.log" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>Co</mask>
       <mask>Contro</mask>
@@ -22,9 +22,7 @@
       <mask>!*.java</mask>
       <mask>!*.</mask>
       <mask>!</mask>
-      <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.html</mask>
       <mask>*.java</mask>
       <mask>*.fea</mask>
       <mask>*.featu</mask>
@@ -37,6 +35,8 @@
       <mask>!*.feature</mask>
       <mask>!*.l</mask>
       <mask>!*.log</mask>
+      <mask>*</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>

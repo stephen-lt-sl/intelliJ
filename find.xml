@@ -2,9 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>Co</mask>
       <mask>Contro</mask>
       <mask>Control</mask>
       <mask>Controller</mask>
@@ -19,8 +21,6 @@
       <mask>!*.java</mask>
       <mask>!*.</mask>
       <mask>!</mask>
-      <mask>*.</mask>
-      <mask>*.java</mask>
       <mask>*.fea</mask>
       <mask>*.featu</mask>
       <mask>*.sql</mask>
@@ -34,6 +34,9 @@
       <mask>!*.log</mask>
       <mask>*</mask>
       <mask>*.html</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*.css</mask>
       <mask>*.ss</mask>
@@ -26,7 +27,6 @@
       <mask>!*.l</mask>
       <mask>!*.log</mask>
       <mask>*</mask>
-      <mask>*.html</mask>
       <mask>*.h</mask>
       <mask>*.</mask>
       <mask>*.xm</mask>
@@ -36,6 +36,7 @@
       <mask>Test.java</mask>
       <mask>*Test.java</mask>
       <mask>*.java</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>

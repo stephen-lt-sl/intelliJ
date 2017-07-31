@@ -7,18 +7,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.ss</mask>
-      <mask>*.s</mask>
-      <mask>!*</mask>
-      <mask>!*.j</mask>
-      <mask>!*.java</mask>
-      <mask>!*.</mask>
-      <mask>!</mask>
-      <mask>*.fea</mask>
-      <mask>*.featu</mask>
-      <mask>*.sql</mask>
       <mask>*.j</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
@@ -27,7 +17,6 @@
       <mask>!*.feature</mask>
       <mask>!*.l</mask>
       <mask>!*.log</mask>
-      <mask>*</mask>
       <mask>*.h</mask>
       <mask>*.</mask>
       <mask>*.xm</mask>
@@ -36,8 +25,20 @@
       <mask>Test.</mask>
       <mask>Test.java</mask>
       <mask>*Test.java</mask>
-      <mask>*.java</mask>
       <mask>*.html</mask>
+      <mask>*</mask>
+      <mask>*C</mask>
+      <mask>*Co</mask>
+      <mask>*Con</mask>
+      <mask>*Conf</mask>
+      <mask>*Confi</mask>
+      <mask>*Config</mask>
+      <mask>*Config.</mask>
+      <mask>*Config.j</mask>
+      <mask>*Config.jav</mask>
+      <mask>*Config.java</mask>
+      <mask>*C.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>

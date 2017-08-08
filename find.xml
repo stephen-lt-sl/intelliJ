@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*.json</mask>
       <mask>*.f</mask>
@@ -11,12 +12,10 @@
       <mask>!*.l</mask>
       <mask>!*.log</mask>
       <mask>*.h</mask>
-      <mask>*.xm</mask>
       <mask>Test</mask>
       <mask>Test.</mask>
       <mask>Test.java</mask>
       <mask>*Test.java</mask>
-      <mask>*.html</mask>
       <mask>*</mask>
       <mask>*C</mask>
       <mask>*Co</mask>
@@ -29,11 +28,13 @@
       <mask>*Config.jav</mask>
       <mask>*Config.java</mask>
       <mask>*C.java</mask>
-      <mask>*.x</mask>
       <mask>*.java</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>

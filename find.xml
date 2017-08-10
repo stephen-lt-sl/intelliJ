@@ -2,22 +2,16 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Entity.java" />
     <recentFileMasks>
-      <mask>*.json</mask>
-      <mask>*.f</mask>
-      <mask>*.feature</mask>
-      <mask>!*.feature</mask>
-      <mask>!*.l</mask>
-      <mask>!*.log</mask>
       <mask>*.h</mask>
       <mask>Test</mask>
       <mask>Test.</mask>
       <mask>Test.java</mask>
       <mask>*Test.java</mask>
-      <mask>*</mask>
       <mask>*C</mask>
       <mask>*Co</mask>
       <mask>*Con</mask>
@@ -36,6 +30,13 @@
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.html</mask>
+      <mask>*</mask>
+      <mask>*E</mask>
+      <mask>*Enti</mask>
+      <mask>*Entit</mask>
+      <mask>*Entity</mask>
+      <mask>*Entity.</mask>
+      <mask>*Entity.java</mask>
     </recentFileMasks>
   </component>
 </application>

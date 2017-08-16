@@ -5,17 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="!*.log" />
     <recentFileMasks>
-      <mask>*Co</mask>
-      <mask>*Con</mask>
-      <mask>*Conf</mask>
-      <mask>*Confi</mask>
-      <mask>*Config</mask>
-      <mask>*Config.</mask>
-      <mask>*Config.j</mask>
-      <mask>*Config.jav</mask>
-      <mask>*Config.java</mask>
-      <mask>*C.java</mask>
-      <mask>*.java</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.xml</mask>
@@ -33,6 +22,17 @@
       <mask>!</mask>
       <mask>!*</mask>
       <mask>!*.</mask>
+      <mask>!*.[log</mask>
+      <mask>!*.[logt</mask>
+      <mask>!*.[logtmp</mask>
+      <mask>!*.[logtmp+</mask>
+      <mask>!*.[logtmp+]</mask>
+      <mask>!*.[logtmp]</mask>
+      <mask>!*.[logtmp]+</mask>
+      <mask>!*.[(logtmp]+</mask>
+      <mask>!*.[(log)tmp]+</mask>
+      <mask>!*.[(log)(tmp]+</mask>
+      <mask>!*.[(log)(tmp)]+</mask>
       <mask>!*.l</mask>
       <mask>!*.log</mask>
     </recentFileMasks>

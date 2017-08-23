@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.html</mask>
       <mask>*E</mask>
       <mask>*Enti</mask>
@@ -30,10 +29,12 @@
       <mask>!*.[(log)(tmp)]+</mask>
       <mask>!*.l</mask>
       <mask>!*.log</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.f</mask>
       <mask>*.feature</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>

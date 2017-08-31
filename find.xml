@@ -6,8 +6,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*E</mask>
-      <mask>*Enti</mask>
       <mask>*Entit</mask>
       <mask>*Entity</mask>
       <mask>*Entity.</mask>
@@ -36,6 +34,8 @@
       <mask>*.java</mask>
       <mask>*.</mask>
       <mask>*.html</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>

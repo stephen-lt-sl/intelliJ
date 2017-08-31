@@ -2,11 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*Entit</mask>
       <mask>*Entity</mask>
       <mask>*Entity.</mask>
       <mask>*Entity.java</mask>
@@ -32,10 +30,11 @@
       <mask>*</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
-      <mask>*.</mask>
-      <mask>*.html</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>

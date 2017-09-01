@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.feature" />
     <recentFileMasks>
-      <mask>*Entity</mask>
       <mask>*Entity.</mask>
       <mask>*Entity.java</mask>
       <mask>[</mask>
@@ -24,16 +24,17 @@
       <mask>!*.[(log)(tmp)]+</mask>
       <mask>!*.l</mask>
       <mask>!*.log</mask>
-      <mask>*.f</mask>
-      <mask>*.feature</mask>
       <mask>*</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
+      <mask>*.</mask>
+      <mask>*.f</mask>
+      <mask>*.featu</mask>
+      <mask>*.feature</mask>
     </recentFileMasks>
   </component>
 </application>

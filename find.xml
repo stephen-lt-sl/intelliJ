@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.sql" />
     <recentFileMasks>
-      <mask>[</mask>
-      <mask>!</mask>
       <mask>!*</mask>
       <mask>!*.</mask>
       <mask>!*.[log</mask>
@@ -33,7 +32,9 @@
       <mask>*.feature</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
+      <mask>*!.sql</mask>
       <mask>*.sql</mask>
+      <mask>!*.sql</mask>
     </recentFileMasks>
   </component>
 </application>

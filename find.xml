@@ -3,15 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>!*</mask>
-      <mask>!*.</mask>
-      <mask>!*.[log</mask>
-      <mask>!*.[logt</mask>
-      <mask>!*.[logtmp</mask>
-      <mask>!*.[logtmp+</mask>
-      <mask>!*.[logtmp+]</mask>
-      <mask>!*.[logtmp]</mask>
       <mask>!*.[logtmp]+</mask>
       <mask>!*.[(logtmp]+</mask>
       <mask>!*.[(log)tmp]+</mask>
@@ -19,21 +12,29 @@
       <mask>!*.[(log)(tmp)]+</mask>
       <mask>!*.l</mask>
       <mask>!*.log</mask>
-      <mask>*</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.h</mask>
-      <mask>*.html</mask>
       <mask>*.f</mask>
       <mask>*.featu</mask>
       <mask>*.feature</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*!.sql</mask>
       <mask>*.sql</mask>
       <mask>!*.sql</mask>
+      <mask>*C</mask>
+      <mask>*Co</mask>
+      <mask>*Cont</mask>
+      <mask>*Contro</mask>
+      <mask>*Control</mask>
+      <mask>*Controller.</mask>
+      <mask>*Controller.ja</mask>
+      <mask>*Controller.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>

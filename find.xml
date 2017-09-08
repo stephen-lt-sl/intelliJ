@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Controller.java" />
     <recentFileMasks>
-      <mask>!*.[logtmp]+</mask>
-      <mask>!*.[(logtmp]+</mask>
-      <mask>!*.[(log)tmp]+</mask>
-      <mask>!*.[(log)(tmp]+</mask>
-      <mask>!*.[(log)(tmp)]+</mask>
       <mask>!*.l</mask>
       <mask>!*.log</mask>
       <mask>*.j</mask>
@@ -20,20 +16,25 @@
       <mask>*.featu</mask>
       <mask>*.feature</mask>
       <mask>*!.sql</mask>
-      <mask>*C</mask>
-      <mask>*Co</mask>
       <mask>*Cont</mask>
-      <mask>*Contro</mask>
-      <mask>*Control</mask>
-      <mask>*Controller.</mask>
-      <mask>*Controller.ja</mask>
-      <mask>*Controller.java</mask>
-      <mask>*</mask>
-      <mask>*.html</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sql</mask>
       <mask>!*.sql</mask>
+      <mask>!*.sq</mask>
+      <mask>!*.s</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.html</mask>
+      <mask>*C</mask>
+      <mask>*Co</mask>
+      <mask>*Contro</mask>
+      <mask>*Control</mask>
+      <mask>*Controller.aj</mask>
+      <mask>*Controller.a</mask>
+      <mask>*Controller.</mask>
+      <mask>*Controller.j</mask>
+      <mask>*Controller.ja</mask>
+      <mask>*Controller.java</mask>
     </recentFileMasks>
   </component>
 </application>

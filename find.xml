@@ -19,10 +19,7 @@
       <mask>*.f</mask>
       <mask>*.featu</mask>
       <mask>*.feature</mask>
-      <mask>*.s</mask>
       <mask>*!.sql</mask>
-      <mask>*.sql</mask>
-      <mask>!*.sql</mask>
       <mask>*C</mask>
       <mask>*Co</mask>
       <mask>*Cont</mask>
@@ -32,8 +29,11 @@
       <mask>*Controller.ja</mask>
       <mask>*Controller.java</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.html</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sql</mask>
+      <mask>!*.sql</mask>
     </recentFileMasks>
   </component>
 </application>

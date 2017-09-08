@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Controller.java" />
     <recentFileMasks>
       <mask>*.h</mask>
       <mask>*.f</mask>
@@ -26,14 +27,14 @@
       <mask>*Controller.a</mask>
       <mask>*Controller.</mask>
       <mask>*Controller.j</mask>
-      <mask>*Controller.ja</mask>
-      <mask>*Controller.java</mask>
       <mask>*M.java</mask>
       <mask>*Mapper.java</mask>
       <mask>*S.java</mask>
       <mask>*Ser.java</mask>
       <mask>*Servi.java</mask>
       <mask>*Service.java</mask>
+      <mask>*Controller.ja</mask>
+      <mask>*Controller.java</mask>
     </recentFileMasks>
   </component>
 </application>

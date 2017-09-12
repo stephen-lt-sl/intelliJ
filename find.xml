@@ -1,36 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Controller.java" />
     <recentFileMasks>
-      <mask>*Cont</mask>
-      <mask>!*.sql</mask>
-      <mask>!*.sq</mask>
-      <mask>!*.s</mask>
-      <mask>*C</mask>
-      <mask>*Co</mask>
-      <mask>*Contro</mask>
-      <mask>*Control</mask>
-      <mask>*Controller.aj</mask>
-      <mask>*Controller.a</mask>
-      <mask>*Controller.</mask>
-      <mask>*Controller.j</mask>
-      <mask>*M.java</mask>
-      <mask>*Mapper.java</mask>
-      <mask>*S.java</mask>
-      <mask>*Ser.java</mask>
-      <mask>*Servi.java</mask>
       <mask>*Service.java</mask>
       <mask>*Controller.ja</mask>
-      <mask>*Controller.java</mask>
-      <mask>*</mask>
-      <mask>*.html</mask>
-      <mask>*.</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>*.gra</mask>
@@ -38,6 +14,27 @@
       <mask>*.gr</mask>
       <mask>*.g</mask>
       <mask>*.sql</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*p.html</mask>
+      <mask>*pa.html</mask>
+      <mask>*page.html</mask>
+      <mask>*.html</mask>
+      <mask>*l.html</mask>
+      <mask>*la.html</mask>
+      <mask>*laypit.html</mask>
+      <mask>*laypi.html</mask>
+      <mask>*layp.html</mask>
+      <mask>*lay.html</mask>
+      <mask>*layout.html</mask>
+      <mask>layout.html</mask>
+      <mask>*</mask>
+      <mask>*C</mask>
+      <mask>*Co</mask>
+      <mask>*Contro</mask>
+      <mask>*Control</mask>
+      <mask>*Controller</mask>
+      <mask>*Controller.java</mask>
     </recentFileMasks>
   </component>
 </application>

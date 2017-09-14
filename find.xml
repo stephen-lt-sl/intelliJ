@@ -3,14 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*.s</mask>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
       <mask>*.gr</mask>
       <mask>*.g</mask>
-      <mask>*.sql</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*p.html</mask>
       <mask>*pa.html</mask>
@@ -24,7 +22,6 @@
       <mask>*lay.html</mask>
       <mask>*layout.html</mask>
       <mask>layout.html</mask>
-      <mask>*</mask>
       <mask>*C</mask>
       <mask>*Co</mask>
       <mask>*Contro</mask>
@@ -34,6 +31,10 @@
       <mask>*C.java</mask>
       <mask>*Contro.java</mask>
       <mask>*Controller.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*lay.html</mask>
-      <mask>*layout.html</mask>
       <mask>layout.html</mask>
       <mask>*C</mask>
       <mask>*Co</mask>
@@ -26,7 +24,6 @@
       <mask>*.sql</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
-      <mask>*.</mask>
       <mask>*.jav</mask>
       <mask>*C.java</mask>
       <mask>*Co.java</mask>
@@ -34,6 +31,9 @@
       <mask>*Control.java</mask>
       <mask>*Controller.java</mask>
       <mask>*.java</mask>
+      <mask>*.</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>

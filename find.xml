@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*laypit.html</mask>
-      <mask>*laypi.html</mask>
-      <mask>*layp.html</mask>
       <mask>*lay.html</mask>
       <mask>*layout.html</mask>
       <mask>layout.html</mask>
@@ -15,10 +12,6 @@
       <mask>*Contro</mask>
       <mask>*Control</mask>
       <mask>*Controller</mask>
-      <mask>*.java</mask>
-      <mask>*C.java</mask>
-      <mask>*Contro.java</mask>
-      <mask>*Controller.java</mask>
       <mask>*.s</mask>
       <mask>*E</mask>
       <mask>*Ent</mask>
@@ -31,9 +24,16 @@
       <mask>*sql.java</mask>
       <mask>*</mask>
       <mask>*.sql</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
+      <mask>*.</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+      <mask>*C.java</mask>
+      <mask>*Co.java</mask>
+      <mask>*Contro.java</mask>
+      <mask>*Control.java</mask>
+      <mask>*Controller.java</mask>
     </recentFileMasks>
   </component>
 </application>

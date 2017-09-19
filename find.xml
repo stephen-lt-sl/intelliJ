@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*lay.html</mask>
       <mask>*layout.html</mask>
@@ -28,12 +29,12 @@
       <mask>*.html</mask>
       <mask>*.</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*C.java</mask>
       <mask>*Co.java</mask>
       <mask>*Contro.java</mask>
       <mask>*Control.java</mask>
       <mask>*Controller.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.feature" />
     <recentFileMasks>
-      <mask>*C</mask>
-      <mask>*Co</mask>
       <mask>*Contro</mask>
       <mask>*Control</mask>
       <mask>*Controller</mask>
@@ -29,11 +28,13 @@
       <mask>*Contro.java</mask>
       <mask>*Control.java</mask>
       <mask>*Controller.java</mask>
-      <mask>*.java</mask>
-      <mask>*.</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.json</mask>
+      <mask>*.java</mask>
+      <mask>*.</mask>
+      <mask>*.featu</mask>
+      <mask>*.feature</mask>
     </recentFileMasks>
   </component>
 </application>

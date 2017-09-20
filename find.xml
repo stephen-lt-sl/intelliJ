@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
-      <mask>layout.html</mask>
       <mask>*C</mask>
       <mask>*Co</mask>
       <mask>*Contro</mask>
@@ -34,6 +34,7 @@
       <mask>*.</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>

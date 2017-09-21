@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.s</mask>
-      <mask>*E</mask>
-      <mask>*Ent</mask>
       <mask>*Enti</mask>
       <mask>*Entit</mask>
       <mask>*Entity</mask>
@@ -31,9 +28,12 @@
       <mask>*.jy</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
-      <mask>*.</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gra</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
-      <mask>*Entit</mask>
       <mask>*Entity</mask>
       <mask>*Entity.</mask>
       <mask>*Entity.java</mask>
@@ -32,8 +32,9 @@
       <mask>*.c</mask>
       <mask>*.css</mask>
       <mask>*.html</mask>
-      <mask>*.</mask>
       <mask>*.sql</mask>
+      <mask>*.</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>

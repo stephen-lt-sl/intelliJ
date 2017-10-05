@@ -1,20 +1,12 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="66:1;70:0;67:1;76:0;73:0;69:0;78:0;84:0;83:1;84:0;65:0;84:0;85:0;83:0;68:1;84:0;79:0;46:0">BfClientStatusDto.</typing>
-      <action id="EditorRight" />
-      <action id="EditorDelete" />
-      <action id="EditorDelete" />
+      <action id="EditorNextWord" />
       <action id="EditorLineEndWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorDelete" />
-      <action id="EditorLineStart" />
-      <action id="EditorRight" />
-      <action id="EditorDelete" />
-      <typing text-keycode="70:1">F</typing>
-      <action id="EditorLineEnd" />
+      <typing text-keycode="48:1">)</typing>
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
       <action id="EditorDown" />
-      <action id="EditorLineStart" />
     </macro>
   </component>
 </application>

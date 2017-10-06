@@ -3,13 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*MT94*" />
     <recentFileMasks>
-      <mask>*.json</mask>
-      <mask>*.featu</mask>
-      <mask>*.feature</mask>
-      <mask>!*.css</mask>
-      <mask>*.jy</mask>
-      <mask>*.cs</mask>
       <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
@@ -34,6 +29,12 @@
       <mask>*Cs</mask>
       <mask>*Csv</mask>
       <mask>*Csv*</mask>
+      <mask>M</mask>
+      <mask>MT</mask>
+      <mask>MT9</mask>
+      <mask>MT94</mask>
+      <mask>MT94*</mask>
+      <mask>*MT94*</mask>
     </recentFileMasks>
   </component>
 </application>

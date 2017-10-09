@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.g</mask>
       <mask>*.gra</mask>
@@ -13,8 +14,6 @@
       <mask>*.yml</mask>
       <mask>*.proper</mask>
       <mask>*.properties</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.xml</mask>
       <mask>*.ml</mask>
@@ -22,7 +21,6 @@
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*</mask>
       <mask>*C</mask>
       <mask>*Cs</mask>
@@ -34,6 +32,9 @@
       <mask>MT94</mask>
       <mask>MT94*</mask>
       <mask>*MT94*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>

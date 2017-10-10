@@ -6,9 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.sql</mask>
-      <mask>*.yml</mask>
       <mask>*.proper</mask>
       <mask>*.properties</mask>
       <mask>*.jav</mask>
@@ -28,7 +25,6 @@
       <mask>MT94</mask>
       <mask>MT94*</mask>
       <mask>*MT94*</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
       <mask>!</mask>
@@ -36,6 +32,10 @@
       <mask>!*.</mask>
       <mask>!*.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>

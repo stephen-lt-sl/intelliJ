@@ -4,12 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*</mask>
-      <mask>*C</mask>
-      <mask>*Cs</mask>
       <mask>*Csv</mask>
       <mask>*Csv*</mask>
       <mask>M</mask>
@@ -28,12 +22,18 @@
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
-      <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
       <mask>*.sql</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.prop</mask>
+      <mask>*.proper</mask>
+      <mask>*.properti</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>

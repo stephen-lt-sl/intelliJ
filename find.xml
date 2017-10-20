@@ -6,13 +6,6 @@
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*Csv</mask>
-      <mask>*Csv*</mask>
-      <mask>M</mask>
-      <mask>MT</mask>
-      <mask>MT9</mask>
-      <mask>MT94</mask>
-      <mask>MT94*</mask>
       <mask>*MT94*</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
@@ -29,13 +22,20 @@
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
       <mask>*.sql</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.prop</mask>
       <mask>*.proper</mask>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*C</mask>
+      <mask>*Co</mask>
+      <mask>*Contro</mask>
+      <mask>*Control</mask>
+      <mask>*Controller.</mask>
+      <mask>*Controller.java</mask>
     </recentFileMasks>
   </component>
 </application>

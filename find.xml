@@ -5,11 +5,8 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*MT94*</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
-      <mask>!</mask>
       <mask>!*</mask>
       <mask>!*.</mask>
       <mask>!*.xml</mask>
@@ -28,7 +25,6 @@
       <mask>*.proper</mask>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
-      <mask>*.</mask>
       <mask>*</mask>
       <mask>*C</mask>
       <mask>*Co</mask>
@@ -36,6 +32,11 @@
       <mask>*Control</mask>
       <mask>*Controller.</mask>
       <mask>*Controller.java</mask>
+      <mask>*ht.java</mask>
+      <mask>*h.java</mask>
+      <mask>*.java</mask>
+      <mask>*.</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>

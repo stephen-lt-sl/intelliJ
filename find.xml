@@ -3,15 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="preserveCase" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.feature" />
     <recentFileMasks>
-      <mask>!*.</mask>
-      <mask>!*.xml</mask>
-      <mask>*.xml</mask>
-      <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.g</mask>
@@ -30,14 +25,18 @@
       <mask>*h.java</mask>
       <mask>*.java</mask>
       <mask>*.html</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>*C</mask>
       <mask>*Co</mask>
       <mask>*Contro</mask>
       <mask>*Control</mask>
       <mask>*Controll</mask>
       <mask>*Controller.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.f</mask>
+      <mask>*.fe</mask>
+      <mask>*.fea</mask>
+      <mask>*.feature</mask>
     </recentFileMasks>
   </component>
 </application>

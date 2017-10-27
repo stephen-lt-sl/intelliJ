@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.cs</mask>
       <mask>*.css</mask>
@@ -22,7 +23,6 @@
       <mask>*Controller.</mask>
       <mask>*ht.java</mask>
       <mask>*h.java</mask>
-      <mask>*.java</mask>
       <mask>*.html</mask>
       <mask>*C</mask>
       <mask>*Co</mask>
@@ -31,11 +31,12 @@
       <mask>*Controll</mask>
       <mask>*Controller.java</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.f</mask>
       <mask>*.fe</mask>
       <mask>*.fea</mask>
       <mask>*.feature</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>

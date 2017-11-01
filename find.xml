@@ -5,8 +5,8 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.g</mask>
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
@@ -34,8 +34,9 @@
       <mask>*.java</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
-      <mask>*.</mask>
       <mask>*.html</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>

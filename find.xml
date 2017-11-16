@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
@@ -25,17 +26,17 @@
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.html</mask>
-      <mask>*.xml</mask>
       <mask>!*.xml</mask>
       <mask>*</mask>
       <mask>*.sql*.sql</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>

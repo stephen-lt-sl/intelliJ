@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
@@ -24,7 +25,6 @@
       <mask>*.java</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
-      <mask>*.html</mask>
       <mask>!*.xml</mask>
       <mask>*</mask>
       <mask>*.sql*.sql</mask>
@@ -34,8 +34,9 @@
       <mask>*.g</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
-      <mask>*.</mask>
       <mask>*.xml</mask>
+      <mask>*.</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>

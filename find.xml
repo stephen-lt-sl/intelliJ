@@ -26,14 +26,14 @@
       <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>*.xml</mask>
-      <mask>*.html</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
-      <mask>*.</mask>
       <mask>*.featu</mask>
       <mask>*.feature</mask>
+      <mask>*.</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -2,18 +2,13 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Transformer*" />
     <recentFileMasks>
-      <mask>*Controller.</mask>
-      <mask>*ht.java</mask>
-      <mask>*h.java</mask>
-      <mask>*C</mask>
-      <mask>*Co</mask>
-      <mask>*Contro</mask>
-      <mask>*Control</mask>
-      <mask>*Controll</mask>
       <mask>*Controller.java</mask>
       <mask>*.f</mask>
       <mask>*.fe</mask>
@@ -22,7 +17,6 @@
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>!*.xml</mask>
-      <mask>*</mask>
       <mask>*.sql*.sql</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
@@ -36,6 +30,15 @@
       <mask>*.feature</mask>
       <mask>*.</mask>
       <mask>*.html</mask>
+      <mask>*</mask>
+      <mask>*T</mask>
+      <mask>*Tran</mask>
+      <mask>*Trans</mask>
+      <mask>*Transfo</mask>
+      <mask>*Transform</mask>
+      <mask>*Transformer</mask>
+      <mask>*Transformer*.</mask>
+      <mask>*Transformer*</mask>
     </recentFileMasks>
   </component>
 </application>

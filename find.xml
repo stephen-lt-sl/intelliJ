@@ -5,9 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Controller.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.java</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>!*.xml</mask>
@@ -15,14 +14,12 @@
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.xml</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
       <mask>*.featu</mask>
       <mask>*.feature</mask>
-      <mask>*.</mask>
       <mask>*.html</mask>
       <mask>*</mask>
       <mask>*T</mask>
@@ -37,6 +34,9 @@
       <mask>*COntr</mask>
       <mask>*COn</mask>
       <mask>*Controller.java</mask>
+      <mask>*.</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>

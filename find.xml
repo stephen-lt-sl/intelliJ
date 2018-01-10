@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Service.java" />
     <recentFileMasks>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
-      <mask>*.gradl</mask>
-      <mask>*.gradle</mask>
-      <mask>*.featu</mask>
       <mask>*.feature</mask>
       <mask>*.html</mask>
       <mask>*T</mask>
@@ -29,11 +25,16 @@
       <mask>*.xml</mask>
       <mask>*.log</mask>
       <mask>!*.log</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
+      <mask>*</mask>
+      <mask>*S</mask>
+      <mask>*Ser</mask>
+      <mask>*Servi</mask>
+      <mask>*Service.</mask>
+      <mask>*Service.java</mask>
     </recentFileMasks>
   </component>
 </application>

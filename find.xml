@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.feature" />
     <recentFileMasks>
       <mask>*Transformer*.</mask>
       <mask>*Transformer*</mask>
@@ -29,11 +30,11 @@
       <mask>&amp;</mask>
       <mask>*</mask>
       <mask>*.feat</mask>
-      <mask>*.feature</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
-      <mask>*.</mask>
       <mask>*.html</mask>
+      <mask>*.</mask>
+      <mask>*.feature</mask>
     </recentFileMasks>
   </component>
 </application>

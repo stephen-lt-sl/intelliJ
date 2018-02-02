@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.csv" />
     <recentFileMasks>
-      <mask>*Transformer*</mask>
-      <mask>*C</mask>
-      <mask>*COntr</mask>
-      <mask>*COn</mask>
-      <mask>*Controller.java</mask>
       <mask>*.xm</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
@@ -34,6 +30,11 @@
       <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
+      <mask>!</mask>
+      <mask>!*</mask>
+      <mask>!*.</mask>
+      <mask>!*.cs</mask>
+      <mask>!*.csv</mask>
     </recentFileMasks>
   </component>
 </application>

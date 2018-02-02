@@ -2,11 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.csv" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*.xm</mask>
-      <mask>*.ja</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>*.log</mask>
@@ -22,7 +22,6 @@
       <mask>&amp;.f</mask>
       <mask>&amp;.</mask>
       <mask>&amp;</mask>
-      <mask>*</mask>
       <mask>*.feat</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
@@ -35,6 +34,9 @@
       <mask>!*.</mask>
       <mask>!*.cs</mask>
       <mask>!*.csv</mask>
+      <mask>*</mask>
+      <mask>*.s</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -5,8 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.xml</mask>
       <mask>*.log</mask>
       <mask>!*.log</mask>
       <mask>*.j</mask>
@@ -33,9 +33,10 @@
       <mask>!*.csv</mask>
       <mask>*</mask>
       <mask>*.java</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sql</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>

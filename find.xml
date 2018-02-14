@@ -3,14 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Builder.java" />
     <recentFileMasks>
-      <mask>*S</mask>
-      <mask>*Ser</mask>
-      <mask>*Servi</mask>
       <mask>*Service.</mask>
       <mask>*Service.java</mask>
       <mask>&amp;.f</mask>
@@ -38,6 +34,9 @@
       <mask>*.html</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*B.java</mask>
+      <mask>*Bui.java</mask>
+      <mask>*Builder.java</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -3,10 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*Service.</mask>
       <mask>*Service.java</mask>
@@ -24,7 +23,6 @@
       <mask>!*.csv</mask>
       <mask>*</mask>
       <mask>*.s</mask>
-      <mask>*.sql</mask>
       <mask>*.J</mask>
       <mask>*.Ja</mask>
       <mask>*.Jav</mask>
@@ -38,6 +36,7 @@
       <mask>*Bui.java</mask>
       <mask>*Builder.java</mask>
       <mask>*.java</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>

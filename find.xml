@@ -5,8 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
-      <mask>*Service.</mask>
       <mask>*Service.java</mask>
       <mask>&amp;.f</mask>
       <mask>&amp;.</mask>
@@ -36,6 +36,7 @@
       <mask>*Builder.java</mask>
       <mask>*.java</mask>
       <mask>*.sql</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>

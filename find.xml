@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
       <mask>*Service.java</mask>
       <mask>&amp;.f</mask>
@@ -13,7 +13,6 @@
       <mask>&amp;</mask>
       <mask>*.feat</mask>
       <mask>*.cs</mask>
-      <mask>*.css</mask>
       <mask>*.feature</mask>
       <mask>!</mask>
       <mask>!*</mask>
@@ -37,6 +36,7 @@
       <mask>*.xml</mask>
       <mask>*.sql</mask>
       <mask>*.html</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>

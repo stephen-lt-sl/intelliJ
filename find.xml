@@ -11,7 +11,6 @@
       <mask>&amp;</mask>
       <mask>*.feat</mask>
       <mask>*.cs</mask>
-      <mask>*.feature</mask>
       <mask>!</mask>
       <mask>!*</mask>
       <mask>!*.</mask>
@@ -36,6 +35,7 @@
       <mask>*.html</mask>
       <mask>*.css</mask>
       <mask>!*.log</mask>
+      <mask>*.feature</mask>
     </recentFileMasks>
   </component>
 </application>

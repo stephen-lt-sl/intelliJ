@@ -5,8 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Steps.java" />
     <recentFileMasks>
-      <mask>&amp;.</mask>
       <mask>&amp;</mask>
       <mask>*.feat</mask>
       <mask>*.cs</mask>
@@ -36,6 +36,7 @@
       <mask>*.html</mask>
       <mask>*.gradle</mask>
       <mask>*Page.java</mask>
+      <mask>*Steps.java</mask>
     </recentFileMasks>
   </component>
 </application>
